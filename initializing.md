@@ -49,7 +49,13 @@ npm uninstall -g react-native-cli @react-native-community/cli
 ```
 npx react-native@latest init AppName
 ```
-### 3. Start a Project
+### 3. Add file in Android Folder 
+file name - local.properties
+```
+sdk.dir=C\:\\Users\\atul2\\AppData\\Local\\Android\\Sdk
+```
+
+### 4. Start a Project
 ```
 npm start
 ```
