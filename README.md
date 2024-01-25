@@ -4,3 +4,7 @@ Key Store Password: itscoder@atul
 ```
 cd android && ./gradlew assembleRelease
 ```
+file store in
+```
+android\app\build\outputs\apk\release\app-release.apk
+```
